@@ -1,0 +1,11 @@
+main {
+  padding: 32px;
+}
+
+footer {
+  padding: 16px 0;
+}
+
+footer > a {
+  margin-right: 8px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "next-i18n-suspense-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prod": "npm run build && npm run start"
+  },
+  "author": "Vlad Sapozhnikov",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^0.0.0-experimental-8af27aeed",
+    "react-dom": "^0.0.0-experimental-8af27aeed"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@types/react": "^17.0.2",
+    "typescript": "^4.1.5"
+  }
+}
